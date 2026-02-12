@@ -47,7 +47,7 @@ This is the first project that required media query that means it needed to be r
 |---|
 |![PC Page Gif](./public/lg-demo.gif)|
 
-| ** Technical Documentation Page Preview on Mobile** |
+| **Technical Documentation Page Preview on Mobile** |
 |---|
 |![Mobile Page Gif](./public/sm-demo.gif)|
 
